@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath("."))
 
 # -- Project information -----------------------------------------------------
 
-project = "opt_app_boilerplate"
+project = "ci_template"
 copyright = "2022, Yuya Takashina"
 author = "Yuya Takashina"
 
